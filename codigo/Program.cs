@@ -1,10 +1,6 @@
-﻿using System;
-using System,IO;	
-class Program
-{
-       
-    static void Main(string[] args)
-    {
+﻿using System.IO;
+	{
+        using (StreamWriter escrever = new StreamWriter("bkp.TXT"))
         Console.Clear();
         Console.BackgroundColor = ConsoleColor.Red;
             Console.ForegroundColor = ConsoleColor.White;
@@ -45,7 +41,12 @@ class Program
         {
             senha[i] = caracteres[random.Next(caracteres.Length)];
         }
-
+             
+    		
+        
         return new string(senha);
+        
+       
     }
-}
+
+
