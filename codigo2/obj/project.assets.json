@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\ABNER FILIPE\\Revisao2024\\codigo2\\codigo2.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\abner\\Revisao2024\\codigo2\\codigo2.csproj",
       "projectName": "codigo2",
-      "projectPath": "C:\\Users\\Aluno\\Documents\\ABNER FILIPE\\Revisao2024\\codigo2\\codigo2.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Documents\\abner\\Revisao2024\\codigo2\\codigo2.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Documents\\ABNER FILIPE\\Revisao2024\\codigo2\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Documents\\abner\\Revisao2024\\codigo2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
